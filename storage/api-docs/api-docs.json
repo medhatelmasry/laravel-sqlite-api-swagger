@@ -11,11 +11,11 @@
             "description": "local server"
         },
         {
-            "url": "http://staging.example.com",
+            "url": "https://laravel-sqlite-api-swagger-mze.azurewebsites.net/api",
             "description": "staging server"
         },
         {
-            "url": "http://example.com",
+            "url": "https://laravel-sqlite-api-swagger-mze.azurewebsites.net/api",
             "description": "production server"
         }
     ],
