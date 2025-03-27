@@ -7,16 +7,16 @@
     },
     "servers": [
         {
-            "url": "http://127.0.0.1:8000/api",
-            "description": "local server"
+            "url": "https://laravel-sqlite-api-swagger-mze.azurewebsites.net/api",
+            "description": "production server"
         },
         {
             "url": "https://laravel-sqlite-api-swagger-mze.azurewebsites.net/api",
             "description": "staging server"
         },
         {
-            "url": "https://laravel-sqlite-api-swagger-mze.azurewebsites.net/api",
-            "description": "production server"
+            "url": "http://127.0.0.1:8000/api",
+            "description": "local server"
         }
     ],
     "paths": {
